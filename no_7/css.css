@@ -1,0 +1,25 @@
+body{
+	overflow-y: hidden;
+}
+.texa {
+    background-image: linear-gradient(200deg, #38ef7d, #11998e);
+    margin-top: 16pt;
+    padding: 14pt;
+    font-size: 20pt;
+    color: white;
+    border-radius: 4px;
+}
+.post_tab{
+	margin: 0 auto !important;
+    float: none !important;
+    margin-top: 25pt !important;
+}
+.zzz{
+	background-image: url(assets/bd3.png);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.table>tbody>tr.warning>td, .table>tbody>tr.warning>th, .table>tbody>tr>td.warning, .table>tbody>tr>th.warning, .table>tfoot>tr.warning>td, .table>tfoot>tr.warning>th, .table>tfoot>tr>td.warning, .table>tfoot>tr>th.warning, .table>thead>tr.warning>td, .table>thead>tr.warning>th, .table>thead>tr>td.warning, .table>thead>tr>th.warning {
+    background-color: #fcf8e39c !important;
+}
